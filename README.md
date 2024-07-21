@@ -1,99 +1,43 @@
-<h1 align="center">Hi 👋, I'm Vansh Gilhotra</h1>
-<h3 align="center">A passionate Full stack developer and a learner</h3>
+# Welcome to My GitHub Profile! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vanshgilhotra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshgilhotra" height="30" width="40" />
-    Vansh Gilhotra
-  </a>
-  <br>
-  <a href="https://linkedin.com/in/vansh gilhotra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh gilhotra" height="30" width="40" />
-    Vansh Gilhotra
-  </a>
-  <br>
-  <a href="https://instagram.com/vanshgilhotra524" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanshgilhotra524" height="30" width="40" />
-    vanshgilhotra524
-  </a>
-  <br>
-  <a href="https://www.leetcode.com/vansh_gilhotra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vansh_gilhotra" height="30" width="40" />
-    Vansh_Gilhotra
-  </a>
-</p>
+## About Me
+Hi there! I'm **Vansh Gilhotra**, a passionate **Web Developer** and an avid **learner**. Currently, I'm pursuing a B.Tech degree at the National Institute of Technology, Jalandhar (NITJ). My interests span from crafting interactive web experiences to delving deep into data structures and algorithms in C++. I am also exploring the exciting field of machine learning to enhance my skills and contribute meaningfully to society.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <br>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-</p>
+## 🚀 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gilhotra-059762220/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gilhotravansh7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanshgilhotra524/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://vanshgportfolio.netlify.app/)
 
-<h3 align="left" style="color: #f39c12; border-bottom: 2px solid #f39c12; display: inline-block; margin-bottom: 10px;">Open to Work:</h3>
-<p align="left" style="font-size: 18px; color: #34495e; line-height: 1.6;">
-  I am currently open to work. For more information, please contact me at:
-  <br>
-  <a href="mailto:vansh.gilhotra@example.com" style="color: #3498db; text-decoration: none; font-weight: bold;">vanshgilhotra8885@gmail.com</a>
-</p>
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansh5632&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vansh5632&theme=dark)](https://git.io/streak-stats)
+
+## 🛠️ Languages and Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh5632&layout=compact&theme=vision-friendly-dark)
+
+## 🌟 Contributions
+![Your Repository's Stats](https://contrib.rocks/image?repo=Vansh5632/Vansh5632)
+
+## 🚧 Projects
+- **[YouTube Clone](https://github.com/Vansh5632/Youtube-Clone)**: Built a YouTube clone using React, Redux Toolkit, and Tailwind CSS. Implemented features like sidebar toggle, search functionality, and data fetching from the YouTube API.
+- **[CarBee](https://github.com/Vansh5632/CarBee)**: Developed a car dealership website with features such as car listing, filtering, and a detailed view of car information.
+- **[Portfolio Website](https://vanshgportfolio.netlify.app/)**: Designed and developed my personal portfolio website showcasing my projects, skills, and contact information.
+
+## 🎉 Fun Fact
+I love solving complex problems and am always eager to learn new technologies. Besides coding, I enjoy [insert a fun fact or hobby here, e.g., "playing chess", "hiking", "photography"].
+
+---
+
+⭐️ From [Vansh Gilhotra](https://github.com/Vansh5632)
