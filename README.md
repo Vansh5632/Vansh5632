@@ -36,7 +36,7 @@ Hi there! I'm **Vansh Gilhotra**, a passionate **Web Developer** and an avid **l
 - **[Portfolio Website](https://vanshgportfolio.netlify.app/)**: Designed and developed my personal portfolio website showcasing my projects, skills, and contact information.
 
 ## 🎉 Fun Fact
-I love solving complex problems and am always eager to learn new technologies. Besides coding, I enjoy [insert a fun fact or hobby here, e.g., "playing chess", "hiking", "photography"].
+I love solving complex problems and am always eager to learn new technologies.
 
 ---
 
