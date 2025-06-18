@@ -12,9 +12,6 @@ Hi there! I'm **Vansh Gilhotra**, a passionate **Web Developer** and an avid **l
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vansh5632&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vansh5632&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="vansh5632" />
-
 ## 🛠️ Languages and Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
