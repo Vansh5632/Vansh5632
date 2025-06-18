@@ -27,8 +27,6 @@ Hi there! I'm **Vansh Gilhotra**, a passionate **Web Developer** and an avid **l
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh5632&layout=compact&theme=vision-friendly-dark)
 
-## 🌟 Contributions
-![Your Repository's Stats](https://contrib.rocks/image?repo=Vansh5632/Vansh5632)
 
 ## 🚧 Projects
 - **[YouTube Clone](https://github.com/Vansh5632/Youtube-Clone)**: Built a YouTube clone using React, Redux Toolkit, and Tailwind CSS. Implemented features like sidebar toggle, search functionality, and data fetching from the YouTube API.
