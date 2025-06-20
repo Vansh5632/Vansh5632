@@ -25,11 +25,6 @@ Hi there! I'm **Vansh Gilhotra**, a passionate **Web Developer** and an avid **l
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh5632&layout=compact&theme=vision-friendly-dark)
 
 
-## 🚧 Projects
-- **[YouTube Clone](https://github.com/Vansh5632/Youtube-Clone)**: Built a YouTube clone using React, Redux Toolkit, and Tailwind CSS. Implemented features like sidebar toggle, search functionality, and data fetching from the YouTube API.
-- **[CarBee](https://github.com/Vansh5632/CarBee)**: Developed a car dealership website with features such as car listing, filtering, and a detailed view of car information.
-- **[Portfolio Website](https://vanshgportfolio.netlify.app/)**: Designed and developed my personal portfolio website showcasing my projects, skills, and contact information.
-
 ## 🎉 Fun Fact
 I love solving complex problems and am always eager to learn new technologies.
 
