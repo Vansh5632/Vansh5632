@@ -12,7 +12,7 @@ I believe in continuous learning and enjoy contributing to projects that make a 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gilhotra-059762220/)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gilhotravansh7)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanshgilhotra524/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white)](https://vanshgportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121013?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh5632.me/)
 
 ---
 
